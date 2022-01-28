@@ -1,0 +1,465 @@
+---- Generation: 0 ----
+PPID;Engineering Services Salaries & Wages Paid RM (000);Mining Value of gross output RM (000);Industrial Production Overall Index;IPIC;Medical Services Salaries & Wages Paid RM (000);Aquaculture Production (?RM (000);Education Services Salaries & Wages Paid RM (000);Real Estate Services Salaries & Wages Paid RM (000);Private Hospitals and Maternity Services Salaries & Wages Paid RM (000);Paddy Production (tonne);Production of Logs ((000);Marine Fish Landing( RM (000);Stone Value of gross output RM (000);Transport&Storage&Information and Communication;Imports 000 Tonne Fitness:(0.5693219048086555,)
+Stone Value of gross output RM (000);Dental Services Salaries & Wages Paid RM (000);Education Services Salaries & Wages Paid RM (000);Paddy Production (tonne) Fitness:(0.647621657762941,)
+Transport&Storage&Information and Communication;Exports 000 Tonne;Surveying Services Salaries & Wages Paid RM (000);Rice Production (tonne);EPI;Engineering Services Salaries & Wages Paid RM (000);Real Estate Services Salaries & Wages Paid RM (000);Rubber Production (000 tonne);Production of Logs ((000);Accountanting Services Salaries & Wages Paid RM (000);Paddy Production (tonne);IPIC;PPID;Electricity Generated (Juta/ Million) KWH;Balance of trade;PPIL;Education Services Salaries & Wages Paid RM (000);Medical Services Salaries & Wages Paid RM (000);Veterinary Services Salaries & Wages Paid RM (000);Total of Employed persons(000) Fitness:(0.5268467596440269,)
+Aquaculture Production (?RM (000);Mining Value of gross output RM (000);Education Services Salaries & Wages Paid RM (000);Accountanting Services Salaries & Wages Paid RM (000);Total of Employed persons(000);Utilities;Real Estate Services Salaries & Wages Paid RM (000);Medical Services Salaries & Wages Paid RM (000);Production of Fresh Fruit Bunches (tonne);Bus Services Salaries & Wages Paid RM (000);Private Hospitals and Maternity Services Salaries & Wages Paid RM (000);Manufacturing Value of gross output RM (Juta/ Million)?;Electricity Generated (Juta/ Million) KWH Fitness:(0.6371633137059085,)
+Electricity Generated (Juta/ Million) KWH;Real Estate Services Salaries & Wages Paid RM (000);Imports 000 Tonne;Rubber Production (000 tonne);Aquaculture Production (?RM (000);Exports;Advertising Services Salaries & Wages Paid RM (000);Medical Services Salaries & Wages Paid RM (000);PPIL;Education Services Salaries & Wages Paid RM (000);Bus Services Salaries & Wages Paid RM (000);EPI;Architectural Services Salaries & Wages Paid RM (000);IPIC;Engineering Services Salaries & Wages Paid RM (000);Agriculture&Livestock&Forestry and Fishing(GDP at current price);Mining and Quarrying(GDP at current price);Accountanting Services Salaries & Wages Paid RM (000) Fitness:(0.575550605331363,)
+Utilities Fitness:(0.6790089743650677,)
+Manufacturing Value of gross output RM (Juta/ Million)?;Mining and Quarrying(GDP at current price);Mining Value of gross output RM (000);PPID;Rubber Production (000 tonne);PPIL;Medical Services Salaries & Wages Paid RM (000) Fitness:(0.4983802888975946,)
+Accountanting Services Salaries & Wages Paid RM (000);Architectural Services Salaries & Wages Paid RM (000);Agriculture&Livestock&Forestry and Fishing(GDP at current price);Production of Dry Cocoa Beans (tonnes);IPIC;Production of Fresh Fruit Bunches (tonne);Aquaculture Production (?RM (000);Mining Value of gross output RM (000);Stone Value of gross output RM (000) Fitness:(0.52828447543201,)
+Industrial Production Overall Index;Utilities;Rice Production (tonne);Electricity Generated (Juta/ Million) KWH;Total of Employed persons(000);Architectural Services Salaries & Wages Paid RM (000);Paddy Production (tonne) Fitness:(0.66763108328788,)
+Transport&Storage&Information and Communication;Industrial Production Overall Index;Accountanting Services Salaries & Wages Paid RM (000);Total of Employed persons(000);Electricity Generated (Juta/ Million) KWH Fitness:(0.6646021496049254,)
+Min fitness: 0.4983802888975946
+Max fitness: 0.6790089743650677
+Mean fitness: 0.5994411212840374
+---- Generation: 1 ----
+Stone Value of gross output RM (000);Dental Services Salaries & Wages Paid RM (000);Production of Fresh Fruit Bunches (tonne);Paddy Production (tonne) Fitness:(0.5693219048086555,)
+Stone Value of gross output RM (000);Dental Services Salaries & Wages Paid RM (000);Education Services Salaries & Wages Paid RM (000);Paddy Production (tonne) Fitness:(0.647621657762941,)
+Stone Value of gross output RM (000);Dental Services Salaries & Wages Paid RM (000);Education Services Salaries & Wages Paid RM (000);Paddy Production (tonne) Fitness:(0.647621657762941,)
+Transport&Storage&Information and Communication;Industrial Production Overall Index;Rice Production (tonne);Total of Employed persons(000);Electricity Generated (Juta/ Million) KWH Fitness:(0.647621657762941,)
+Transport&Storage&Information and Communication;Industrial Production Overall Index;Accountanting Services Salaries & Wages Paid RM (000);Total of Employed persons(000);Electricity Generated (Juta/ Million) KWH Fitness:(0.6646021496049254,)
+Industrial Production Overall Index;Utilities;Rice Production (tonne);Electricity Generated (Juta/ Million) KWH;Total of Employed persons(000);Architectural Services Salaries & Wages Paid RM (000);Paddy Production (tonne) Fitness:(0.66763108328788,)
+Stone Value of gross output RM (000);Dental Services Salaries & Wages Paid RM (000);Education Services Salaries & Wages Paid RM (000);Paddy Production (tonne) Fitness:(0.5268467596440269,)
+Aquaculture Production (?RM (000);Mining Value of gross output RM (000);Education Services Salaries & Wages Paid RM (000);Accountanting Services Salaries & Wages Paid RM (000);Total of Employed persons(000);Utilities;Real Estate Services Salaries & Wages Paid RM (000);Medical Services Salaries & Wages Paid RM (000);Production of Fresh Fruit Bunches (tonne);Bus Services Salaries & Wages Paid RM (000);Production of Logs ((000);Manufacturing Value of gross output RM (Juta/ Million)?;Electricity Generated (Juta/ Million) KWH Fitness:(0.6371633137059085,)
+Industrial Production Overall Index;Utilities;Rice Production (tonne);Electricity Generated (Juta/ Million) KWH;Total of Employed persons(000);Architectural Services Salaries & Wages Paid RM (000);Paddy Production (tonne) Fitness:(0.66763108328788,)
+Legal Services Salaries & Wages Paid RM (000) Fitness:(0.575550605331363,)
+Min fitness: 0.5268467596440269
+Max fitness: 0.66763108328788
+Mean fitness: 0.6251611872959462
+---- Generation: 2 ----
+Industrial Production Overall Index;Utilities;Rice Production (tonne);Electricity Generated (Juta/ Million) KWH;Total of Employed persons(000);Architectural Services Salaries & Wages Paid RM (000);Paddy Production (tonne) Fitness:(0.66763108328788,)
+Transport&Storage&Information and Communication;Industrial Production Overall Index;Accountanting Services Salaries & Wages Paid RM (000);ConstructionValue of gross output RM (000)?;Electricity Generated (Juta/ Million) KWH Fitness:(0.6647412772113388,)
+Transport&Storage&Information and Communication;Industrial Production Overall Index;Accountanting Services Salaries & Wages Paid RM (000);Exports;Electricity Generated (Juta/ Million) KWH Fitness:(0.647621657762941,)
+Stone Value of gross output RM (000);Dental Services Salaries & Wages Paid RM (000);Education Services Salaries & Wages Paid RM (000);Paddy Production (tonne) Fitness:(0.647621657762941,)
+Industrial Production Overall Index;Utilities;Rice Production (tonne);Electricity Generated (Juta/ Million) KWH;Total of Employed persons(000);Architectural Services Salaries & Wages Paid RM (000);Paddy Production (tonne) Fitness:(0.66763108328788,)
+Industrial Production Overall Index;Utilities;Rice Production (tonne);Electricity Generated (Juta/ Million) KWH;Total of Employed persons(000);Architectural Services Salaries & Wages Paid RM (000);Paddy Production (tonne) Fitness:(0.66763108328788,)
+Transport&Storage&Information and Communication;Industrial Production Overall Index;Accountanting Services Salaries & Wages Paid RM (000);Total of Employed persons(000);Electricity Generated (Juta/ Million) KWH Fitness:(0.6646021496049254,)
+Industrial Production Overall Index;Medical Services Salaries & Wages Paid RM (000);Rice Production (tonne);Electricity Generated (Juta/ Million) KWH;Total of Employed persons(000);Architectural Services Salaries & Wages Paid RM (000);Paddy Production (tonne) Fitness:(0.647621657762941,)
+Industrial Production Overall Index;Utilities;Rice Production (tonne);Electricity Generated (Juta/ Million) KWH;Total of Employed persons(000);Architectural Services Salaries & Wages Paid RM (000);Paddy Production (tonne) Fitness:(0.66763108328788,)
+Industrial Production Overall Index;Utilities;Rice Production (tonne);Electricity Generated (Juta/ Million) KWH;Total of Employed persons(000);Architectural Services Salaries & Wages Paid RM (000);Paddy Production (tonne) Fitness:(0.66763108328788,)
+Min fitness: 0.647621657762941
+Max fitness: 0.66763108328788
+Mean fitness: 0.6610363816544487
+---- Generation: 3 ----
+Industrial Production Overall Index;Mining and Quarrying(GDP at current price);Rice Production (tonne);Electricity Generated (Juta/ Million) KWH;Total of Employed persons(000);Architectural Services Salaries & Wages Paid RM (000);Paddy Production (tonne) Fitness:(0.66763108328788,)
+Industrial Production Overall Index;Utilities;Rice Production (tonne);Electricity Generated (Juta/ Million) KWH;Total of Employed persons(000);Architectural Services Salaries & Wages Paid RM (000);Paddy Production (tonne) Fitness:(0.66763108328788,)
+Industrial Production Overall Index;Utilities;Rice Production (tonne);Electricity Generated (Juta/ Million) KWH;Total of Employed persons(000);Architectural Services Salaries & Wages Paid RM (000);Paddy Production (tonne) Fitness:(0.66763108328788,)
+Transport&Storage&Information and Communication;Industrial Production Overall Index;Accountanting Services Salaries & Wages Paid RM (000);ConstructionValue of gross output RM (000)?;Electricity Generated (Juta/ Million) KWH Fitness:(0.6647412772113388,)
+Industrial Production Overall Index;Utilities;Rice Production (tonne);Electricity Generated (Juta/ Million) KWH;Total of Employed persons(000);Architectural Services Salaries & Wages Paid RM (000);Paddy Production (tonne) Fitness:(0.66763108328788,)
+Mining Value of gross output RM (000);Utilities;Rice Production (tonne);Electricity Generated (Juta/ Million) KWH;Total of Employed persons(000);Architectural Services Salaries & Wages Paid RM (000);Paddy Production (tonne) Fitness:(0.6444497946700294,)
+Industrial Production Overall Index;Utilities;Rice Production (tonne);Electricity Generated (Juta/ Million) KWH;Total of Employed persons(000);Architectural Services Salaries & Wages Paid RM (000);Paddy Production (tonne) Fitness:(0.66763108328788,)
+Industrial Production Overall Index;Utilities;Rice Production (tonne);Electricity Generated (Juta/ Million) KWH;Total of Employed persons(000);Architectural Services Salaries & Wages Paid RM (000);Paddy Production (tonne) Fitness:(0.66763108328788,)
+Exports 000 Tonne;Industrial Production Overall Index;Accountanting Services Salaries & Wages Paid RM (000);ConstructionValue of gross output RM (000)?;Electricity Generated (Juta/ Million) KWH Fitness:(0.6551063539743713,)
+Industrial Production Overall Index;Utilities;Rice Production (tonne);Electricity Generated (Juta/ Million) KWH;Total of Employed persons(000);Architectural Services Salaries & Wages Paid RM (000);Paddy Production (tonne) Fitness:(0.66763108328788,)
+Min fitness: 0.6444497946700294
+Max fitness: 0.66763108328788
+Mean fitness: 0.6637715008870899
+---- Generation: 4 ----
+Industrial Production Overall Index;Utilities;Rice Production (tonne);Electricity Generated (Juta/ Million) KWH;Total of Employed persons(000);Architectural Services Salaries & Wages Paid RM (000);Paddy Production (tonne) Fitness:(0.66763108328788,)
+Industrial Production Overall Index;Utilities;Rice Production (tonne);Electricity Generated (Juta/ Million) KWH;Total of Employed persons(000);Architectural Services Salaries & Wages Paid RM (000);Paddy Production (tonne) Fitness:(0.66763108328788,)
+Transport&Storage&Information and Communication;Industrial Production Overall Index;Accountanting Services Salaries & Wages Paid RM (000);ConstructionValue of gross output RM (000)?;Electricity Generated (Juta/ Million) KWH Fitness:(0.6647412772113388,)
+Industrial Production Overall Index;Utilities;Rice Production (tonne);Electricity Generated (Juta/ Million) KWH;Total of Employed persons(000);Architectural Services Salaries & Wages Paid RM (000);Paddy Production (tonne) Fitness:(0.66763108328788,)
+Industrial Production Overall Index;Utilities;Rice Production (tonne);PPID;Total of Employed persons(000);Architectural Services Salaries & Wages Paid RM (000);Paddy Production (tonne) Fitness:(0.6671313685324903,)
+Industrial Production Overall Index;Utilities;Rice Production (tonne);Electricity Generated (Juta/ Million) KWH;Total of Employed persons(000);Architectural Services Salaries & Wages Paid RM (000);Paddy Production (tonne) Fitness:(0.66763108328788,)
+Industrial Production Overall Index;Utilities;Rice Production (tonne);Electricity Generated (Juta/ Million) KWH;Total of Employed persons(000);Architectural Services Salaries & Wages Paid RM (000);Paddy Production (tonne) Fitness:(0.66763108328788,)
+Industrial Production Overall Index;Utilities;Rice Production (tonne);Accountanting Services Salaries & Wages Paid RM (000);Total of Employed persons(000);Architectural Services Salaries & Wages Paid RM (000);Paddy Production (tonne) Fitness:(0.66763108328788,)
+Industrial Production Overall Index;Utilities;Rice Production (tonne);Electricity Generated (Juta/ Million) KWH;Total of Employed persons(000);Architectural Services Salaries & Wages Paid RM (000);Paddy Production (tonne) Fitness:(0.66763108328788,)
+Industrial Production Overall Index;Mining and Quarrying(GDP at current price);Rice Production (tonne);Electricity Generated (Juta/ Million) KWH;Total of Employed persons(000);Architectural Services Salaries & Wages Paid RM (000);Paddy Production (tonne) Fitness:(0.66763108328788,)
+Min fitness: 0.6647412772113388
+Max fitness: 0.66763108328788
+Mean fitness: 0.6672921312046868
+---- Generation: 5 ----
+Industrial Production Overall Index;Utilities;Rice Production (tonne);Electricity Generated (Juta/ Million) KWH;Total of Employed persons(000);Architectural Services Salaries & Wages Paid RM (000);Paddy Production (tonne) Fitness:(0.66763108328788,)
+Industrial Production Overall Index;Utilities;Rice Production (tonne);Electricity Generated (Juta/ Million) KWH;Total of Employed persons(000);Architectural Services Salaries & Wages Paid RM (000);Paddy Production (tonne) Fitness:(0.66763108328788,)
+Industrial Production Overall Index;Utilities;Rice Production (tonne);Electricity Generated (Juta/ Million) KWH;Total of Employed persons(000);Architectural Services Salaries & Wages Paid RM (000);Paddy Production (tonne) Fitness:(0.66763108328788,)
+Industrial Production Overall Index;Utilities;Rice Production (tonne);Electricity Generated (Juta/ Million) KWH;Total of Employed persons(000);Architectural Services Salaries & Wages Paid RM (000);Paddy Production (tonne) Fitness:(0.66763108328788,)
+Industrial Production Overall Index;Utilities;Rice Production (tonne);Accountanting Services Salaries & Wages Paid RM (000);Total of Employed persons(000);Architectural Services Salaries & Wages Paid RM (000);Paddy Production (tonne) Fitness:(0.66763108328788,)
+Industrial Production Overall Index;Utilities;Rice Production (tonne);Electricity Generated (Juta/ Million) KWH;Total of Employed persons(000);Architectural Services Salaries & Wages Paid RM (000);Paddy Production (tonne) Fitness:(0.66763108328788,)
+Industrial Production Overall Index;Utilities;Rice Production (tonne);Electricity Generated (Juta/ Million) KWH;Total of Employed persons(000);Architectural Services Salaries & Wages Paid RM (000);Bus Services Salaries & Wages Paid RM (000) Fitness:(0.66763108328788,)
+Industrial Production Overall Index;Utilities;Rice Production (tonne);Electricity Generated (Juta/ Million) KWH;Total of Employed persons(000);Architectural Services Salaries & Wages Paid RM (000);Paddy Production (tonne) Fitness:(0.66763108328788,)
+Industrial Production Overall Index;Utilities;Rice Production (tonne);Electricity Generated (Juta/ Million) KWH;Total of Employed persons(000);Architectural Services Salaries & Wages Paid RM (000);Paddy Production (tonne) Fitness:(0.66763108328788,)
+Industrial Production Overall Index;Utilities;Rice Production (tonne);Electricity Generated (Juta/ Million) KWH;Total of Employed persons(000);Architectural Services Salaries & Wages Paid RM (000);Paddy Production (tonne) Fitness:(0.66763108328788,)
+Min fitness: 0.66763108328788
+Max fitness: 0.66763108328788
+Mean fitness: 0.6676310832878799
+---- Generation: 6 ----
+Industrial Production Overall Index;Utilities;Rice Production (tonne);Electricity Generated (Juta/ Million) KWH;Total of Employed persons(000);Architectural Services Salaries & Wages Paid RM (000);Bus Services Salaries & Wages Paid RM (000) Fitness:(0.66763108328788,)
+Industrial Production Overall Index;Utilities;Rice Production (tonne);Electricity Generated (Juta/ Million) KWH;Total of Employed persons(000);Architectural Services Salaries & Wages Paid RM (000);Paddy Production (tonne) Fitness:(0.66763108328788,)
+Transport&Storage&Information and Communication;Utilities;Rice Production (tonne);Accountanting Services Salaries & Wages Paid RM (000);Total of Employed persons(000);Architectural Services Salaries & Wages Paid RM (000);Paddy Production (tonne) Fitness:(0.66763108328788,)
+Industrial Production Overall Index;Utilities;Rice Production (tonne);Electricity Generated (Juta/ Million) KWH;Total of Employed persons(000);Architectural Services Salaries & Wages Paid RM (000);Paddy Production (tonne) Fitness:(0.66763108328788,)
+Industrial Production Overall Index;Utilities;Rice Production (tonne);PPID;Total of Employed persons(000);Architectural Services Salaries & Wages Paid RM (000);Paddy Production (tonne) Fitness:(0.66763108328788,)
+Industrial Production Overall Index;Utilities;Rice Production (tonne);Electricity Generated (Juta/ Million) KWH;Total of Employed persons(000);Architectural Services Salaries & Wages Paid RM (000);Paddy Production (tonne) Fitness:(0.66763108328788,)
+Industrial Production Overall Index;Utilities;Rice Production (tonne);Electricity Generated (Juta/ Million) KWH;Total of Employed persons(000);Architectural Services Salaries & Wages Paid RM (000);Paddy Production (tonne) Fitness:(0.66763108328788,)
+Industrial Production Overall Index;Utilities;Rice Production (tonne);Electricity Generated (Juta/ Million) KWH;Total of Employed persons(000);Architectural Services Salaries & Wages Paid RM (000);Paddy Production (tonne) Fitness:(0.66763108328788,)
+Industrial Production Overall Index;Utilities;Rice Production (tonne);Electricity Generated (Juta/ Million) KWH;Total of Employed persons(000);Architectural Services Salaries & Wages Paid RM (000);Paddy Production (tonne) Fitness:(0.66763108328788,)
+Industrial Production Overall Index;Utilities;Rice Production (tonne);Electricity Generated (Juta/ Million) KWH;Total of Employed persons(000);Architectural Services Salaries & Wages Paid RM (000);Paddy Production (tonne) Fitness:(0.66763108328788,)
+Min fitness: 0.66763108328788
+Max fitness: 0.66763108328788
+Mean fitness: 0.6676310832878799
+---- Generation: 7 ----
+Transport&Storage&Information and Communication;Manufacturing Value of gross output RM (Juta/ Million)?;Rice Production (tonne);Accountanting Services Salaries & Wages Paid RM (000);Total of Employed persons(000);Architectural Services Salaries & Wages Paid RM (000);Paddy Production (tonne) Fitness:(0.6701085026928695,)
+Industrial Production Overall Index;Utilities;Rice Production (tonne);Electricity Generated (Juta/ Million) KWH;Total of Employed persons(000);Architectural Services Salaries & Wages Paid RM (000);Paddy Production (tonne) Fitness:(0.66763108328788,)
+Industrial Production Overall Index;Utilities;Rice Production (tonne);Electricity Generated (Juta/ Million) KWH;Total of Employed persons(000);Architectural Services Salaries & Wages Paid RM (000);Bus Services Salaries & Wages Paid RM (000) Fitness:(0.66763108328788,)
+Transport&Storage&Information and Communication;Utilities;Rice Production (tonne);Accountanting Services Salaries & Wages Paid RM (000);Total of Employed persons(000);Architectural Services Salaries & Wages Paid RM (000);Paddy Production (tonne) Fitness:(0.66763108328788,)
+Industrial Production Overall Index;Utilities;Rice Production (tonne);Electricity Generated (Juta/ Million) KWH;Total of Employed persons(000);Architectural Services Salaries & Wages Paid RM (000);Paddy Production (tonne) Fitness:(0.66763108328788,)
+Industrial Production Overall Index;Utilities;Rice Production (tonne);Electricity Generated (Juta/ Million) KWH;Total of Employed persons(000);Architectural Services Salaries & Wages Paid RM (000);Manufacturing Value of gross output RM (Juta/ Million)? Fitness:(0.66763108328788,)
+Industrial Production Overall Index;Utilities;Rice Production (tonne);PPID;Total of Employed persons(000);Architectural Services Salaries & Wages Paid RM (000);Paddy Production (tonne) Fitness:(0.66763108328788,)
+Industrial Production Overall Index;Utilities;Rice Production (tonne);Electricity Generated (Juta/ Million) KWH;Total of Employed persons(000);Architectural Services Salaries & Wages Paid RM (000);Paddy Production (tonne) Fitness:(0.66763108328788,)
+Industrial Production Overall Index;Utilities;Rice Production (tonne);Electricity Generated (Juta/ Million) KWH;Total of Employed persons(000);Architectural Services Salaries & Wages Paid RM (000);Paddy Production (tonne) Fitness:(0.66763108328788,)
+Transport&Storage&Information and Communication;Utilities;Rice Production (tonne);Bus Services Salaries & Wages Paid RM (000);Total of Employed persons(000);Architectural Services Salaries & Wages Paid RM (000);Paddy Production (tonne) Fitness:(0.66292366307472,)
+Min fitness: 0.66292366307472
+Max fitness: 0.6701085026928695
+Mean fitness: 0.6674080832070628
+---- Generation: 8 ----
+Legal Services Salaries & Wages Paid RM (000);Manufacturing Value of gross output RM (Juta/ Million)?;Rice Production (tonne);Accountanting Services Salaries & Wages Paid RM (000);Total of Employed persons(000);Architectural Services Salaries & Wages Paid RM (000);Paddy Production (tonne) Fitness:(0.656643780267111,)
+Industrial Production Overall Index;Utilities;Rice Production (tonne);Electricity Generated (Juta/ Million) KWH;PPIL;Architectural Services Salaries & Wages Paid RM (000);Paddy Production (tonne) Fitness:(0.66763108328788,)
+Industrial Production Overall Index;Utilities;Rice Production (tonne);Electricity Generated (Juta/ Million) KWH;Total of Employed persons(000);Architectural Services Salaries & Wages Paid RM (000);Bus Services Salaries & Wages Paid RM (000) Fitness:(0.66763108328788,)
+Marine Fish Landing( RM (000);Manufacturing Value of gross output RM (Juta/ Million)?;Rice Production (tonne);Accountanting Services Salaries & Wages Paid RM (000);Total of Employed persons(000);Architectural Services Salaries & Wages Paid RM (000);Paddy Production (tonne) Fitness:(0.6701085026928695,)
+Industrial Production Overall Index;Utilities;Rice Production (tonne);Electricity Generated (Juta/ Million) KWH;Total of Employed persons(000);Surveying Services Salaries & Wages Paid RM (000);Paddy Production (tonne) Fitness:(0.66292366307472,)
+Industrial Production Overall Index;Utilities;Rice Production (tonne);Electricity Generated (Juta/ Million) KWH;Total of Employed persons(000);Architectural Services Salaries & Wages Paid RM (000);Dental Services Salaries & Wages Paid RM (000) Fitness:(0.66763108328788,)
+Industrial Production Overall Index;Utilities;Rice Production (tonne);PPID;Total of Employed persons(000);Architectural Services Salaries & Wages Paid RM (000);Paddy Production (tonne) Fitness:(0.66763108328788,)
+Industrial Production Overall Index;Utilities;Rice Production (tonne);Electricity Generated (Juta/ Million) KWH;Total of Employed persons(000);Architectural Services Salaries & Wages Paid RM (000);Paddy Production (tonne) Fitness:(0.66763108328788,)
+Industrial Production Overall Index;Utilities;Rice Production (tonne);Electricity Generated (Juta/ Million) KWH;Total of Employed persons(000);Architectural Services Salaries & Wages Paid RM (000);Paddy Production (tonne) Fitness:(0.66763108328788,)
+Industrial Production Overall Index;Utilities;Rice Production (tonne);Electricity Generated (Juta/ Million) KWH;Total of Employed persons(000);Architectural Services Salaries & Wages Paid RM (000);Paddy Production (tonne) Fitness:(0.66763108328788,)
+Min fitness: 0.656643780267111
+Max fitness: 0.6701085026928695
+Mean fitness: 0.6663093529049859
+---- Generation: 9 ----
+Veterinary Services Salaries & Wages Paid RM (000);Utilities;Rice Production (tonne);Electricity Generated (Juta/ Million) KWH;Total of Employed persons(000);Architectural Services Salaries & Wages Paid RM (000);Paddy Production (tonne) Fitness:(0.6525755989108889,)
+Industrial Production Overall Index;Utilities;Rice Production (tonne);Electricity Generated (Juta/ Million) KWH;Total of Employed persons(000);Architectural Services Salaries & Wages Paid RM (000);Dental Services Salaries & Wages Paid RM (000) Fitness:(0.66763108328788,)
+Industrial Production Overall Index;Utilities;Rice Production (tonne);PPID;Total of Employed persons(000);Architectural Services Salaries & Wages Paid RM (000);Paddy Production (tonne) Fitness:(0.66763108328788,)
+Industrial Production Overall Index;Utilities;Rice Production (tonne);Electricity Generated (Juta/ Million) KWH;Total of Employed persons(000);Architectural Services Salaries & Wages Paid RM (000);Dental Services Salaries & Wages Paid RM (000) Fitness:(0.66763108328788,)
+Industrial Production Overall Index;Utilities;EPI;Electricity Generated (Juta/ Million) KWH;Total of Employed persons(000);Architectural Services Salaries & Wages Paid RM (000);Bus Services Salaries & Wages Paid RM (000) Fitness:(0.6668397455364528,)
+Industrial Production Overall Index;Utilities;Rice Production (tonne);Electricity Generated (Juta/ Million) KWH;Total of Employed persons(000);Architectural Services Salaries & Wages Paid RM (000);Mining and Quarrying(GDP at current price) Fitness:(0.6701085026928695,)
+Industrial Production Overall Index;Utilities;Rice Production (tonne);Electricity Generated (Juta/ Million) KWH;Total of Employed persons(000);Architectural Services Salaries & Wages Paid RM (000);Mining and Quarrying(GDP at current price) Fitness:(0.6592302076253508,)
+Marine Fish Landing( RM (000);Manufacturing Value of gross output RM (Juta/ Million)?;Rice Production (tonne);Accountanting Services Salaries & Wages Paid RM (000);Total of Employed persons(000);Architectural Services Salaries & Wages Paid RM (000);Paddy Production (tonne) Fitness:(0.6701085026928695,)
+Industrial Production Overall Index;Utilities;Rice Production (tonne);Electricity Generated (Juta/ Million) KWH;PPIL;Architectural Services Salaries & Wages Paid RM (000);Paddy Production (tonne) Fitness:(0.66763108328788,)
+Industrial Production Overall Index;Utilities;Rice Production (tonne);Electricity Generated (Juta/ Million) KWH;Total of Employed persons(000);Architectural Services Salaries & Wages Paid RM (000);Paddy Production (tonne) Fitness:(0.66763108328788,)
+Min fitness: 0.6525755989108889
+Max fitness: 0.6701085026928695
+Mean fitness: 0.6657017973897831
+---- Generation: 10 ----
+Industrial Production Overall Index;Utilities;Rice Production (tonne);Electricity Generated (Juta/ Million) KWH;Total of Employed persons(000);Architectural Services Salaries & Wages Paid RM (000);Dental Services Salaries & Wages Paid RM (000) Fitness:(0.66763108328788,)
+Marine Fish Landing( RM (000);Manufacturing Value of gross output RM (Juta/ Million)?;Rice Production (tonne);Accountanting Services Salaries & Wages Paid RM (000);Total of Employed persons(000);Architectural Services Salaries & Wages Paid RM (000);Paddy Production (tonne) Fitness:(0.6701085026928695,)
+Industrial Production Overall Index;Utilities;Rice Production (tonne);Electricity Generated (Juta/ Million) KWH;Legal Services Salaries & Wages Paid RM (000);Architectural Services Salaries & Wages Paid RM (000);Paddy Production (tonne) Fitness:(0.6532561183594295,)
+Industrial Production Overall Index;Utilities;Rice Production (tonne);Electricity Generated (Juta/ Million) KWH;Total of Employed persons(000);Architectural Services Salaries & Wages Paid RM (000);Mining and Quarrying(GDP at current price) Fitness:(0.6701085026928695,)
+Industrial Production Overall Index;Utilities;Rice Production (tonne);PPID;Total of Employed persons(000);Architectural Services Salaries & Wages Paid RM (000);Paddy Production (tonne) Fitness:(0.66763108328788,)
+Industrial Production Overall Index;Education Services Salaries & Wages Paid RM (000);Rice Production (tonne);Electricity Generated (Juta/ Million) KWH;Total of Employed persons(000);Architectural Services Salaries & Wages Paid RM (000);Paddy Production (tonne) Fitness:(0.6654832651929253,)
+Industrial Production Overall Index;Utilities;Rice Production (tonne);Electricity Generated (Juta/ Million) KWH;PPIL;Architectural Services Salaries & Wages Paid RM (000);Paddy Production (tonne) Fitness:(0.66763108328788,)
+Industrial Production Overall Index;Utilities;Rice Production (tonne);PPID;Total of Employed persons(000);Architectural Services Salaries & Wages Paid RM (000);Paddy Production (tonne) Fitness:(0.66763108328788,)
+Marine Fish Landing( RM (000);Manufacturing Value of gross output RM (Juta/ Million)?;Rice Production (tonne);Accountanting Services Salaries & Wages Paid RM (000);Total of Employed persons(000);Architectural Services Salaries & Wages Paid RM (000);Paddy Production (tonne) Fitness:(0.6701085026928695,)
+Industrial Production Overall Index;Utilities;Rice Production (tonne);Electricity Generated (Juta/ Million) KWH;Total of Employed persons(000);Architectural Services Salaries & Wages Paid RM (000);Paddy Production (tonne) Fitness:(0.66763108328788,)
+Min fitness: 0.6532561183594295
+Max fitness: 0.6701085026928695
+Mean fitness: 0.6667220308070363
+-- End of (successful) evolution --Best individual is Marine Fish Landing( RM (000);Manufacturing Value of gross output RM (Juta/ Million)?;Rice Production (tonne);Accountanting Services Salaries & Wages Paid RM (000);Total of Employed persons(000);Architectural Services Salaries & Wages Paid RM (000);Paddy Production (tonne), (0.6701085026928695,) 
+---- Generation: 0 ----
+Production of Dry Cocoa Beans (tonnes);Electricity Generated (Juta/ Million) KWH;Exports;ConstructionValue of gross output RM (000)?;Manufacturing Value of gross output RM (Juta/ Million)?;Imports 000 Tonne;Terms of Trade;Legal Services Salaries & Wages Paid RM (000);Bus Services Salaries & Wages Paid RM (000);Paddy Production (tonne);PPID;Private Hospitals and Maternity Services Salaries & Wages Paid RM (000);Production of Fresh Fruit Bunches (tonne);Real Estate Services Salaries & Wages Paid RM (000);Transport&Storage&Information and Communication;Total of Employed persons(000) Fitness:(0.46879754923504446,)
+Education Services Salaries & Wages Paid RM (000);Advertising Services Salaries & Wages Paid RM (000);Exports;Real Estate Services Salaries & Wages Paid RM (000) Fitness:(0.5967310001704013,)
+Stone Value of gross output RM (000);Production of Dry Cocoa Beans (tonnes);ConstructionValue of gross output RM (000)?;Transport&Storage&Information and Communication;Education Services Salaries & Wages Paid RM (000);Bus Services Salaries & Wages Paid RM (000);Surveying Services Salaries & Wages Paid RM (000);Advertising Services Salaries & Wages Paid RM (000);Imports 000 Tonne;Engineering Services Salaries & Wages Paid RM (000);Architectural Services Salaries & Wages Paid RM (000);Agriculture&Livestock&Forestry and Fishing(GDP at current price);Rubber Production (000 tonne);Industrial Production Overall Index;Marine Fish Landing( RM (000);PPIL;Real Estate Services Salaries & Wages Paid RM (000);Balance of trade;Mining and Quarrying(GDP at current price);Mining Value of gross output RM (000) Fitness:(0.5175674871615515,)
+Education Services Salaries & Wages Paid RM (000);Electricity Generated (Juta/ Million) KWH;Production of Fresh Fruit Bunches (tonne);Stone Value of gross output RM (000);ConstructionValue of gross output RM (000)?;PPID;Exports 000 Tonne;Advertising Services Salaries & Wages Paid RM (000);Rice Production (tonne);Mining and Quarrying(GDP at current price);Imports 000 Tonne;Bus Services Salaries & Wages Paid RM (000);Paddy Production (tonne) Fitness:(0.6176578900863886,)
+Imports 000 Tonne;PPIL;Marine Fish Landing( RM (000);PPID;Production of Logs ((000);Education Services Salaries & Wages Paid RM (000);Engineering Services Salaries & Wages Paid RM (000);Stone Value of gross output RM (000);Exports 000 Tonne;Legal Services Salaries & Wages Paid RM (000);Balance of trade;Rubber Production (000 tonne);Electricity Generated (Juta/ Million) KWH;Architectural Services Salaries & Wages Paid RM (000);Bus Services Salaries & Wages Paid RM (000);IPIC;Private Hospitals and Maternity Services Salaries & Wages Paid RM (000);Paddy Production (tonne) Fitness:(0.5129730471228537,)
+Rice Production (tonne) Fitness:(0.6583124701886781,)
+PPIL;Paddy Production (tonne);Imports 000 Tonne;Utilities;Architectural Services Salaries & Wages Paid RM (000);Mining and Quarrying(GDP at current price);Electricity Generated (Juta/ Million) KWH Fitness:(0.6300959839781335,)
+EPI;Terms of Trade;Private Hospitals and Maternity Services Salaries & Wages Paid RM (000);Imports 000 Tonne;Paddy Production (tonne);Accountanting Services Salaries & Wages Paid RM (000);Total of Employed persons(000);Industrial Production Overall Index;Bus Services Salaries & Wages Paid RM (000) Fitness:(0.48906374903801075,)
+Rubber Production (000 tonne);Bus Services Salaries & Wages Paid RM (000);Private Hospitals and Maternity Services Salaries & Wages Paid RM (000);PPID;Industrial Production Overall Index;Production of Dry Cocoa Beans (tonnes);Education Services Salaries & Wages Paid RM (000) Fitness:(0.32832203902580864,)
+Paddy Production (tonne);Architectural Services Salaries & Wages Paid RM (000);Veterinary Services Salaries & Wages Paid RM (000);Imports 000 Tonne;Manufacturing Value of gross output RM (Juta/ Million)? Fitness:(0.5837670954788423,)
+Min fitness: 0.32832203902580864
+Max fitness: 0.6583124701886781
+Mean fitness: 0.5403288311485712
+---- Generation: 1 ----
+PPIL;Paddy Production (tonne);Imports 000 Tonne;Utilities;Architectural Services Salaries & Wages Paid RM (000);Marine Fish Landing( RM (000);Electricity Generated (Juta/ Million) KWH Fitness:(0.46879754923504446,)
+Education Services Salaries & Wages Paid RM (000);Electricity Generated (Juta/ Million) KWH;Production of Fresh Fruit Bunches (tonne);Balance of trade;ConstructionValue of gross output RM (000)?;PPID;Exports 000 Tonne;Advertising Services Salaries & Wages Paid RM (000);Rice Production (tonne);Mining and Quarrying(GDP at current price);Imports 000 Tonne;Bus Services Salaries & Wages Paid RM (000);Paddy Production (tonne) Fitness:(0.5967310001704013,)
+PPIL;Paddy Production (tonne);Imports 000 Tonne;Utilities;Architectural Services Salaries & Wages Paid RM (000);Mining and Quarrying(GDP at current price);Electricity Generated (Juta/ Million) KWH Fitness:(0.6300959839781335,)
+Education Services Salaries & Wages Paid RM (000);Advertising Services Salaries & Wages Paid RM (000);Exports;Real Estate Services Salaries & Wages Paid RM (000) Fitness:(0.5967310001704013,)
+Paddy Production (tonne);Architectural Services Salaries & Wages Paid RM (000);Veterinary Services Salaries & Wages Paid RM (000);Imports 000 Tonne;Manufacturing Value of gross output RM (Juta/ Million)? Fitness:(0.5837670954788423,)
+Education Services Salaries & Wages Paid RM (000);Electricity Generated (Juta/ Million) KWH;Production of Dry Cocoa Beans (tonnes);Stone Value of gross output RM (000);ConstructionValue of gross output RM (000)?;PPID;Exports 000 Tonne;Advertising Services Salaries & Wages Paid RM (000);Rice Production (tonne);Mining and Quarrying(GDP at current price);Imports 000 Tonne;Bus Services Salaries & Wages Paid RM (000);Paddy Production (tonne) Fitness:(0.5175674871615515,)
+Education Services Salaries & Wages Paid RM (000);Advertising Services Salaries & Wages Paid RM (000);Imports 000 Tonne;Real Estate Services Salaries & Wages Paid RM (000) Fitness:(0.6176578900863886,)
+PPIL;Paddy Production (tonne);Exports;Utilities;Architectural Services Salaries & Wages Paid RM (000);Mining and Quarrying(GDP at current price);Electricity Generated (Juta/ Million) KWH Fitness:(0.5129730471228537,)
+PPIL;Paddy Production (tonne);Imports 000 Tonne;Utilities;Architectural Services Salaries & Wages Paid RM (000);Mining and Quarrying(GDP at current price);Production of Logs ((000) Fitness:(0.6583124701886781,)
+Rice Production (tonne) Fitness:(0.6583124701886781,)
+Min fitness: 0.46879754923504446
+Max fitness: 0.6583124701886781
+Mean fitness: 0.5840945993780973
+---- Generation: 2 ----
+Rice Production (tonne) Fitness:(0.6583124701886781,)
+Education Services Salaries & Wages Paid RM (000);Advertising Services Salaries & Wages Paid RM (000);Imports 000 Tonne;Real Estate Services Salaries & Wages Paid RM (000) Fitness:(0.6176578900863886,)
+PPIL;Paddy Production (tonne);Imports 000 Tonne;Utilities;Architectural Services Salaries & Wages Paid RM (000);Mining and Quarrying(GDP at current price);Electricity Generated (Juta/ Million) KWH Fitness:(0.6300959839781335,)
+PPIL;Paddy Production (tonne);Imports 000 Tonne;Utilities;Architectural Services Salaries & Wages Paid RM (000);Mining and Quarrying(GDP at current price);Electricity Generated (Juta/ Million) KWH Fitness:(0.6300959839781335,)
+PPIL;Paddy Production (tonne);Imports 000 Tonne;Utilities;Architectural Services Salaries & Wages Paid RM (000);Mining and Quarrying(GDP at current price);Electricity Generated (Juta/ Million) KWH Fitness:(0.6300959839781335,)
+PPIL;Paddy Production (tonne);Imports 000 Tonne;Utilities;Architectural Services Salaries & Wages Paid RM (000);Mining and Quarrying(GDP at current price);Production of Logs ((000) Fitness:(0.6583124701886781,)
+PPIL;Paddy Production (tonne);Imports 000 Tonne;Utilities;Architectural Services Salaries & Wages Paid RM (000);Mining and Quarrying(GDP at current price);Electricity Generated (Juta/ Million) KWH Fitness:(0.6300959839781335,)
+PPIL;Paddy Production (tonne);Imports 000 Tonne;Utilities;Architectural Services Salaries & Wages Paid RM (000);Mining and Quarrying(GDP at current price);Production of Logs ((000) Fitness:(0.6583124701886781,)
+PPIL;Paddy Production (tonne);Exports;Utilities;Architectural Services Salaries & Wages Paid RM (000);Mining and Quarrying(GDP at current price);Electricity Generated (Juta/ Million) KWH Fitness:(0.5129730471228537,)
+PPIL;Paddy Production (tonne);Imports 000 Tonne;Utilities;Architectural Services Salaries & Wages Paid RM (000);Mining and Quarrying(GDP at current price);Production of Logs ((000) Fitness:(0.6583124701886781,)
+Min fitness: 0.5129730471228537
+Max fitness: 0.6583124701886781
+Mean fitness: 0.6284264753876488
+---- Generation: 3 ----
+Rice Production (tonne) Fitness:(0.6583124701886781,)
+PPIL;Medical Services Salaries & Wages Paid RM (000);Imports 000 Tonne;Utilities;Architectural Services Salaries & Wages Paid RM (000);Mining and Quarrying(GDP at current price);Production of Logs ((000) Fitness:(0.6583124701886781,)
+PPIL;Paddy Production (tonne);Imports 000 Tonne;Utilities;Architectural Services Salaries & Wages Paid RM (000);Mining and Quarrying(GDP at current price);Electricity Generated (Juta/ Million) KWH Fitness:(0.6300959839781335,)
+PPIL;Paddy Production (tonne);Imports 000 Tonne;Utilities;Architectural Services Salaries & Wages Paid RM (000);Mining and Quarrying(GDP at current price);Production of Logs ((000) Fitness:(0.6583124701886781,)
+PPIL;Paddy Production (tonne);Imports 000 Tonne;Utilities;Architectural Services Salaries & Wages Paid RM (000);Mining and Quarrying(GDP at current price);Production of Logs ((000) Fitness:(0.6583124701886781,)
+Rice Production (tonne) Fitness:(0.6583124701886781,)
+Stone Value of gross output RM (000);Paddy Production (tonne);Imports 000 Tonne;Utilities;Architectural Services Salaries & Wages Paid RM (000);Mining and Quarrying(GDP at current price);Production of Logs ((000) Fitness:(0.5370227113049763,)
+PPIL;Transport&Storage&Information and Communication;Imports 000 Tonne;Utilities;Architectural Services Salaries & Wages Paid RM (000);Mining and Quarrying(GDP at current price);Production of Logs ((000) Fitness:(0.6300959839781335,)
+PPIL;Medical Services Salaries & Wages Paid RM (000);Imports 000 Tonne;Utilities;Architectural Services Salaries & Wages Paid RM (000);Mining and Quarrying(GDP at current price);Production of Logs ((000) Fitness:(0.6300959839781335,)
+Education Services Salaries & Wages Paid RM (000);Advertising Services Salaries & Wages Paid RM (000);Imports 000 Tonne;Real Estate Services Salaries & Wages Paid RM (000) Fitness:(0.6176578900863886,)
+Min fitness: 0.5370227113049763
+Max fitness: 0.6583124701886781
+Mean fitness: 0.6336530904269156
+---- Generation: 4 ----
+Rice Production (tonne) Fitness:(0.6583124701886781,)
+PPIL;Paddy Production (tonne);Imports 000 Tonne;Utilities;Architectural Services Salaries & Wages Paid RM (000);Mining and Quarrying(GDP at current price);Electricity Generated (Juta/ Million) KWH Fitness:(0.6300959839781335,)
+Marine Fish Landing( RM (000) Fitness:(0.6583124701886781,)
+PPIL;Paddy Production (tonne);Imports 000 Tonne;Utilities;Architectural Services Salaries & Wages Paid RM (000);Mining and Quarrying(GDP at current price);Production of Logs ((000) Fitness:(0.6583124701886781,)
+Rice Production (tonne) Fitness:(0.6583124701886781,)
+PPIL;Paddy Production (tonne);Imports 000 Tonne;Utilities;Architectural Services Salaries & Wages Paid RM (000);Mining and Quarrying(GDP at current price);Production of Logs ((000) Fitness:(0.6583124701886781,)
+Rice Production (tonne) Fitness:(0.6583124701886781,)
+Rice Production (tonne) Fitness:(0.6583124701886781,)
+Rice Production (tonne) Fitness:(0.6583124701886781,)
+Rice Production (tonne) Fitness:(0.6583124701886781,)
+Min fitness: 0.6300959839781335
+Max fitness: 0.6583124701886781
+Mean fitness: 0.6554908215676236
+---- Generation: 5 ----
+Transport&Storage&Information and Communication Fitness:(0.6583124701886781,)
+Rice Production (tonne) Fitness:(0.6583124701886781,)
+Education Services Salaries & Wages Paid RM (000) Fitness:(0.6300959839781335,)
+Rice Production (tonne) Fitness:(0.6583124701886781,)
+Rice Production (tonne) Fitness:(0.6583124701886781,)
+Rice Production (tonne) Fitness:(0.6583124701886781,)
+PPIL Fitness:(0.6869218673695011,)
+Rice Production (tonne) Fitness:(0.6583124701886781,)
+PPIL;Paddy Production (tonne);Imports 000 Tonne;Utilities;Architectural Services Salaries & Wages Paid RM (000);Mining and Quarrying(GDP at current price);Production of Logs ((000) Fitness:(0.6583124701886781,)
+Rice Production (tonne) Fitness:(0.6583124701886781,)
+Min fitness: 0.6300959839781335
+Max fitness: 0.6869218673695011
+Mean fitness: 0.6583517612857059
+---- Generation: 6 ----
+Architectural Services Salaries & Wages Paid RM (000) Fitness:(0.6688168758618218,)
+Rice Production (tonne) Fitness:(0.6583124701886781,)
+PPIL Fitness:(0.6869218673695011,)
+Rice Production (tonne) Fitness:(0.6583124701886781,)
+Rice Production (tonne) Fitness:(0.6583124701886781,)
+PPIL Fitness:(0.6869218673695011,)
+Rice Production (tonne) Fitness:(0.6583124701886781,)
+Rice Production (tonne) Fitness:(0.6583124701886781,)
+Rice Production (tonne) Fitness:(0.6583124701886781,)
+Rice Production (tonne) Fitness:(0.6583124701886781,)
+Min fitness: 0.6583124701886781
+Max fitness: 0.6869218673695011
+Mean fitness: 0.665084790192157
+---- Generation: 7 ----
+Rice Production (tonne) Fitness:(0.6583124701886781,)
+Manufacturing Value of gross output RM (Juta/ Million)? Fitness:(0.6585871891958573,)
+PPIL Fitness:(0.6869218673695011,)
+Architectural Services Salaries & Wages Paid RM (000) Fitness:(0.6688168758618218,)
+Architectural Services Salaries & Wages Paid RM (000) Fitness:(0.6688168758618218,)
+PPIL Fitness:(0.6869218673695011,)
+Rice Production (tonne) Fitness:(0.6583124701886781,)
+Rice Production (tonne) Fitness:(0.6583124701886781,)
+PPIL Fitness:(0.6869218673695011,)
+Rice Production (tonne) Fitness:(0.6583124701886781,)
+Min fitness: 0.6583124701886781
+Max fitness: 0.6869218673695011
+Mean fitness: 0.6690236423782716
+---- Generation: 8 ----
+PPIL Fitness:(0.6869218673695011,)
+Engineering Services Salaries & Wages Paid RM (000) Fitness:(0.6583124701886781,)
+PPIL Fitness:(0.6869218673695011,)
+PPIL Fitness:(0.6869218673695011,)
+PPIL Fitness:(0.6869218673695011,)
+Accountanting Services Salaries & Wages Paid RM (000) Fitness:(0.6350497947118042,)
+PPIL Fitness:(0.6869218673695011,)
+Rice Production (tonne) Fitness:(0.6774706883470513,)
+PPIL Fitness:(0.6869218673695011,)
+Rice Production (tonne) Fitness:(0.6583124701886781,)
+Min fitness: 0.6350497947118042
+Max fitness: 0.6869218673695011
+Mean fitness: 0.6750676627653218
+---- Generation: 9 ----
+Accountanting Services Salaries & Wages Paid RM (000) Fitness:(0.6774706883470513,)
+PPIL Fitness:(0.6869218673695011,)
+Bus Services Salaries & Wages Paid RM (000) Fitness:(0.6590963954411146,)
+PPIL Fitness:(0.6869218673695011,)
+PPIL Fitness:(0.6869218673695011,)
+Accountanting Services Salaries & Wages Paid RM (000) Fitness:(0.6774706883470513,)
+PPIL Fitness:(0.6869218673695011,)
+PPIL Fitness:(0.6869218673695011,)
+PPIL Fitness:(0.6869218673695011,)
+PPIL Fitness:(0.6869218673695011,)
+Min fitness: 0.6590963954411146
+Max fitness: 0.6869218673695011
+Mean fitness: 0.6822490843721726
+---- Generation: 10 ----
+Utilities Fitness:(0.6347075011009098,)
+Private Hospitals and Maternity Services Salaries & Wages Paid RM (000) Fitness:(0.6774706883470513,)
+PPIL Fitness:(0.6869218673695011,)
+PPIL Fitness:(0.6869218673695011,)
+PPIL Fitness:(0.6869218673695011,)
+PPIL Fitness:(0.6869218673695011,)
+Utilities Fitness:(0.675364514038589,)
+PPIL Fitness:(0.6869218673695011,)
+PPIL Fitness:(0.6869218673695011,)
+PPIL Fitness:(0.6869218673695011,)
+Min fitness: 0.6347075011009098
+Max fitness: 0.6869218673695011
+Mean fitness: 0.6795995775073058
+-- End of (successful) evolution --Best individual is PPIL, (0.6869218673695011,) 
+---- Generation: 0 ----
+Terms of Trade;IPIC;Accountanting Services Salaries & Wages Paid RM (000);Industrial Production Overall Index;Exports 000 Tonne;Imports 000 Tonne;Architectural Services Salaries & Wages Paid RM (000);Agriculture&Livestock&Forestry and Fishing(GDP at current price);Production of Fresh Fruit Bunches (tonne);Production of Logs ((000);Mining Value of gross output RM (000);Dental Services Salaries & Wages Paid RM (000);Surveying Services Salaries & Wages Paid RM (000);Education Services Salaries & Wages Paid RM (000);Manufacturing Value of gross output RM (Juta/ Million)?;EPI Fitness:(0.48318591240952186,)
+Paddy Production (tonne);PPID;Dental Services Salaries & Wages Paid RM (000);Rice Production (tonne) Fitness:(0.6594453981961729,)
+Utilities;PPID;EPI;Dental Services Salaries & Wages Paid RM (000);Stone Value of gross output RM (000);PPIL;Manufacturing Value of gross output RM (Juta/ Million)?;Architectural Services Salaries & Wages Paid RM (000);Paddy Production (tonne);Agriculture&Livestock&Forestry and Fishing(GDP at current price);Exports 000 Tonne;Bus Services Salaries & Wages Paid RM (000);Exports;Accountanting Services Salaries & Wages Paid RM (000);Balance of trade;Marine Fish Landing( RM (000);Transport&Storage&Information and Communication;Mining and Quarrying(GDP at current price);Legal Services Salaries & Wages Paid RM (000);Private Hospitals and Maternity Services Salaries & Wages Paid RM (000) Fitness:(0.6435935140396666,)
+PPIL;Advertising Services Salaries & Wages Paid RM (000);Mining Value of gross output RM (000);Imports 000 Tonne;Balance of trade;Legal Services Salaries & Wages Paid RM (000);Engineering Services Salaries & Wages Paid RM (000);Utilities;Rubber Production (000 tonne);Manufacturing Value of gross output RM (Juta/ Million)?;Exports 000 Tonne;Education Services Salaries & Wages Paid RM (000);Exports Fitness:(0.5204935348196462,)
+Manufacturing Value of gross output RM (Juta/ Million)?;Surveying Services Salaries & Wages Paid RM (000);Rice Production (tonne);Stone Value of gross output RM (000);PPID;Production of Fresh Fruit Bunches (tonne);Aquaculture Production (?RM (000);Exports 000 Tonne;Total of Employed persons(000);Bus Services Salaries & Wages Paid RM (000);Legal Services Salaries & Wages Paid RM (000);Architectural Services Salaries & Wages Paid RM (000);Rubber Production (000 tonne);Agriculture&Livestock&Forestry and Fishing(GDP at current price);Production of Logs ((000);Industrial Production Overall Index;Marine Fish Landing( RM (000);Balance of trade Fitness:(0.5347042498077083,)
+Utilities Fitness:(0.6790089743650677,)
+Paddy Production (tonne);Production of Fresh Fruit Bunches (tonne);Advertising Services Salaries & Wages Paid RM (000);Real Estate Services Salaries & Wages Paid RM (000);Stone Value of gross output RM (000);Medical Services Salaries & Wages Paid RM (000);Production of Logs ((000) Fitness:(0.499473848326712,)
+Production of Fresh Fruit Bunches (tonne);Mining Value of gross output RM (000);Exports 000 Tonne;Industrial Production Overall Index;Mining and Quarrying(GDP at current price);Paddy Production (tonne);Rubber Production (000 tonne);Medical Services Salaries & Wages Paid RM (000);Private Hospitals and Maternity Services Salaries & Wages Paid RM (000) Fitness:(0.502600970865883,)
+Engineering Services Salaries & Wages Paid RM (000);Rice Production (tonne);IPIC;Industrial Production Overall Index;PPIL;Utilities;Production of Dry Cocoa Beans (tonnes) Fitness:(0.4963105185663651,)
+Mining and Quarrying(GDP at current price);Marine Fish Landing( RM (000);Aquaculture Production (?RM (000);Surveying Services Salaries & Wages Paid RM (000);ConstructionValue of gross output RM (000)? Fitness:(0.6616768705836588,)
+Min fitness: 0.48318591240952186
+Max fitness: 0.6790089743650677
+Mean fitness: 0.5680493791980401
+---- Generation: 1 ----
+Paddy Production (tonne);PPID;Production of Fresh Fruit Bunches (tonne);Rice Production (tonne) Fitness:(0.48318591240952186,)
+Paddy Production (tonne);PPID;Dental Services Salaries & Wages Paid RM (000);Rice Production (tonne) Fitness:(0.6594453981961729,)
+Paddy Production (tonne);PPID;Dental Services Salaries & Wages Paid RM (000);Rice Production (tonne) Fitness:(0.6594453981961729,)
+Mining and Quarrying(GDP at current price);Marine Fish Landing( RM (000);Industrial Production Overall Index;Surveying Services Salaries & Wages Paid RM (000);ConstructionValue of gross output RM (000)? Fitness:(0.6594453981961729,)
+Mining and Quarrying(GDP at current price);Marine Fish Landing( RM (000);Aquaculture Production (?RM (000);Surveying Services Salaries & Wages Paid RM (000);ConstructionValue of gross output RM (000)? Fitness:(0.6616768705836588,)
+PPIL;Advertising Services Salaries & Wages Paid RM (000);Mining Value of gross output RM (000);Imports 000 Tonne;Balance of trade;Legal Services Salaries & Wages Paid RM (000);Engineering Services Salaries & Wages Paid RM (000);Utilities;Rubber Production (000 tonne);Manufacturing Value of gross output RM (Juta/ Million)?;Exports 000 Tonne;Education Services Salaries & Wages Paid RM (000);Exports Fitness:(0.5204935348196462,)
+Paddy Production (tonne);PPID;Rice Production (tonne);Rice Production (tonne) Fitness:(0.6435935140396666,)
+Manufacturing Value of gross output RM (Juta/ Million)?;Surveying Services Salaries & Wages Paid RM (000);Dental Services Salaries & Wages Paid RM (000);Stone Value of gross output RM (000);PPID;Production of Fresh Fruit Bunches (tonne);Aquaculture Production (?RM (000);Exports 000 Tonne;Total of Employed persons(000);Bus Services Salaries & Wages Paid RM (000);Legal Services Salaries & Wages Paid RM (000);Architectural Services Salaries & Wages Paid RM (000);Rubber Production (000 tonne);Agriculture&Livestock&Forestry and Fishing(GDP at current price);Production of Logs ((000);Industrial Production Overall Index;Marine Fish Landing( RM (000);Balance of trade Fitness:(0.5204935348196462,)
+Utilities;PPID;EPI;Dental Services Salaries & Wages Paid RM (000);Stone Value of gross output RM (000);PPIL;Manufacturing Value of gross output RM (Juta/ Million)?;Aquaculture Production (?RM (000);Paddy Production (tonne);Agriculture&Livestock&Forestry and Fishing(GDP at current price);Exports 000 Tonne;Bus Services Salaries & Wages Paid RM (000);Exports;Accountanting Services Salaries & Wages Paid RM (000);Balance of trade;Marine Fish Landing( RM (000);Transport&Storage&Information and Communication;Mining and Quarrying(GDP at current price);Legal Services Salaries & Wages Paid RM (000);Private Hospitals and Maternity Services Salaries & Wages Paid RM (000) Fitness:(0.5347042498077083,)
+Utilities Fitness:(0.6790089743650677,)
+Min fitness: 0.48318591240952186
+Max fitness: 0.6790089743650677
+Mean fitness: 0.6021492785433434
+---- Generation: 2 ----
+Mining and Quarrying(GDP at current price);Marine Fish Landing( RM (000);Aquaculture Production (?RM (000);Surveying Services Salaries & Wages Paid RM (000);ConstructionValue of gross output RM (000)? Fitness:(0.6616768705836588,)
+Mining and Quarrying(GDP at current price);Marine Fish Landing( RM (000);Aquaculture Production (?RM (000);Transport&Storage&Information and Communication;ConstructionValue of gross output RM (000)? Fitness:(0.6694854911434736,)
+Mining and Quarrying(GDP at current price);Marine Fish Landing( RM (000);Aquaculture Production (?RM (000);Surveying Services Salaries & Wages Paid RM (000);ConstructionValue of gross output RM (000)? Fitness:(0.6616768705836588,)
+Paddy Production (tonne);PPID;Dental Services Salaries & Wages Paid RM (000);Rice Production (tonne) Fitness:(0.6594453981961729,)
+Imports 000 Tonne;PPID;Dental Services Salaries & Wages Paid RM (000);Rice Production (tonne) Fitness:(0.6594453981961729,)
+Paddy Production (tonne);PPID;Dental Services Salaries & Wages Paid RM (000);Rice Production (tonne) Fitness:(0.6594453981961729,)
+Mining and Quarrying(GDP at current price);Marine Fish Landing( RM (000);Aquaculture Production (?RM (000);Surveying Services Salaries & Wages Paid RM (000);ConstructionValue of gross output RM (000)? Fitness:(0.6616768705836588,)
+Manufacturing Value of gross output RM (Juta/ Million)?;Surveying Services Salaries & Wages Paid RM (000);Dental Services Salaries & Wages Paid RM (000);Stone Value of gross output RM (000);PPID;Medical Services Salaries & Wages Paid RM (000);Aquaculture Production (?RM (000);Exports 000 Tonne;Total of Employed persons(000);Bus Services Salaries & Wages Paid RM (000);Legal Services Salaries & Wages Paid RM (000);Architectural Services Salaries & Wages Paid RM (000);Rubber Production (000 tonne);Agriculture&Livestock&Forestry and Fishing(GDP at current price);Production of Logs ((000);Industrial Production Overall Index;Marine Fish Landing( RM (000);Balance of trade Fitness:(0.6594453981961729,)
+Utilities;PPID;EPI;Dental Services Salaries & Wages Paid RM (000);Stone Value of gross output RM (000);PPIL;Manufacturing Value of gross output RM (Juta/ Million)?;Aquaculture Production (?RM (000);Paddy Production (tonne);Agriculture&Livestock&Forestry and Fishing(GDP at current price);Exports 000 Tonne;Bus Services Salaries & Wages Paid RM (000);Exports;Accountanting Services Salaries & Wages Paid RM (000);Balance of trade;Marine Fish Landing( RM (000);Transport&Storage&Information and Communication;Mining and Quarrying(GDP at current price);Legal Services Salaries & Wages Paid RM (000);Private Hospitals and Maternity Services Salaries & Wages Paid RM (000) Fitness:(0.5347042498077083,)
+Paddy Production (tonne);PPID;Dental Services Salaries & Wages Paid RM (000);Rice Production (tonne) Fitness:(0.6594453981961729,)
+Min fitness: 0.5347042498077083
+Max fitness: 0.6694854911434736
+Mean fitness: 0.6486447343683022
+---- Generation: 3 ----
+Mining and Quarrying(GDP at current price);EPI;Aquaculture Production (?RM (000);Transport&Storage&Information and Communication;ConstructionValue of gross output RM (000)? Fitness:(0.6616768705836588,)
+Paddy Production (tonne);PPID;Dental Services Salaries & Wages Paid RM (000);Rice Production (tonne) Fitness:(0.6594453981961729,)
+Mining and Quarrying(GDP at current price);Marine Fish Landing( RM (000);Aquaculture Production (?RM (000);Surveying Services Salaries & Wages Paid RM (000);ConstructionValue of gross output RM (000)? Fitness:(0.6616768705836588,)
+Mining Value of gross output RM (000);Marine Fish Landing( RM (000);Aquaculture Production (?RM (000);Transport&Storage&Information and Communication;ConstructionValue of gross output RM (000)? Fitness:(0.6590174986844736,)
+Mining and Quarrying(GDP at current price);Marine Fish Landing( RM (000);Aquaculture Production (?RM (000);Transport&Storage&Information and Communication;ConstructionValue of gross output RM (000)? Fitness:(0.6694854911434736,)
+Mining and Quarrying(GDP at current price);Marine Fish Landing( RM (000);Aquaculture Production (?RM (000);Surveying Services Salaries & Wages Paid RM (000);ConstructionValue of gross output RM (000)? Fitness:(0.6616768705836588,)
+Exports 000 Tonne;Marine Fish Landing( RM (000);Aquaculture Production (?RM (000);Transport&Storage&Information and Communication;ConstructionValue of gross output RM (000)? Fitness:(0.6616768705836588,)
+Mining and Quarrying(GDP at current price);Marine Fish Landing( RM (000);Aquaculture Production (?RM (000);Transport&Storage&Information and Communication;ConstructionValue of gross output RM (000)? Fitness:(0.6694854911434736,)
+Mining and Quarrying(GDP at current price);Marine Fish Landing( RM (000);Aquaculture Production (?RM (000);Transport&Storage&Information and Communication;ConstructionValue of gross output RM (000)? Fitness:(0.6694854911434736,)
+Mining and Quarrying(GDP at current price);Marine Fish Landing( RM (000);Aquaculture Production (?RM (000);Surveying Services Salaries & Wages Paid RM (000);ConstructionValue of gross output RM (000)? Fitness:(0.6616768705836588,)
+Min fitness: 0.6590174986844736
+Max fitness: 0.6694854911434736
+Mean fitness: 0.663530372322936
+---- Generation: 4 ----
+Mining and Quarrying(GDP at current price);Marine Fish Landing( RM (000);Aquaculture Production (?RM (000);Transport&Storage&Information and Communication;ConstructionValue of gross output RM (000)? Fitness:(0.6694854911434736,)
+Mining and Quarrying(GDP at current price);Marine Fish Landing( RM (000);Aquaculture Production (?RM (000);Transport&Storage&Information and Communication;ConstructionValue of gross output RM (000)? Fitness:(0.6694854911434736,)
+Mining and Quarrying(GDP at current price);Marine Fish Landing( RM (000);Aquaculture Production (?RM (000);PPID;ConstructionValue of gross output RM (000)? Fitness:(0.6590611827518931,)
+Mining and Quarrying(GDP at current price);Marine Fish Landing( RM (000);Aquaculture Production (?RM (000);Transport&Storage&Information and Communication;ConstructionValue of gross output RM (000)? Fitness:(0.6694854911434736,)
+Mining and Quarrying(GDP at current price);EPI;Aquaculture Production (?RM (000);Transport&Storage&Information and Communication;ConstructionValue of gross output RM (000)? Fitness:(0.6616768705836588,)
+Mining and Quarrying(GDP at current price);Marine Fish Landing( RM (000);Aquaculture Production (?RM (000);Architectural Services Salaries & Wages Paid RM (000);ConstructionValue of gross output RM (000)? Fitness:(0.6594453981961729,)
+Mining and Quarrying(GDP at current price);Marine Fish Landing( RM (000);Aquaculture Production (?RM (000);Transport&Storage&Information and Communication;ConstructionValue of gross output RM (000)? Fitness:(0.6694854911434736,)
+Mining and Quarrying(GDP at current price);Marine Fish Landing( RM (000);Aquaculture Production (?RM (000);Transport&Storage&Information and Communication;ConstructionValue of gross output RM (000)? Fitness:(0.6694854911434736,)
+Mining and Quarrying(GDP at current price);Marine Fish Landing( RM (000);Aquaculture Production (?RM (000);Transport&Storage&Information and Communication;ConstructionValue of gross output RM (000)? Fitness:(0.6694854911434736,)
+Mining and Quarrying(GDP at current price);Marine Fish Landing( RM (000);Aquaculture Production (?RM (000);Transport&Storage&Information and Communication;ConstructionValue of gross output RM (000)? Fitness:(0.6694854911434736,)
+Min fitness: 0.6590611827518931
+Max fitness: 0.6694854911434736
+Mean fitness: 0.666658188953604
+---- Generation: 5 ----
+Mining and Quarrying(GDP at current price);Marine Fish Landing( RM (000);Aquaculture Production (?RM (000);Transport&Storage&Information and Communication;ConstructionValue of gross output RM (000)? Fitness:(0.6694854911434736,)
+Mining and Quarrying(GDP at current price);Marine Fish Landing( RM (000);Aquaculture Production (?RM (000);Transport&Storage&Information and Communication;ConstructionValue of gross output RM (000)? Fitness:(0.6694854911434736,)
+Mining and Quarrying(GDP at current price);Marine Fish Landing( RM (000);Aquaculture Production (?RM (000);Transport&Storage&Information and Communication;ConstructionValue of gross output RM (000)? Fitness:(0.6694854911434736,)
+Mining and Quarrying(GDP at current price);Marine Fish Landing( RM (000);Aquaculture Production (?RM (000);Transport&Storage&Information and Communication;ConstructionValue of gross output RM (000)? Fitness:(0.6694854911434736,)
+Mining and Quarrying(GDP at current price);Marine Fish Landing( RM (000);Aquaculture Production (?RM (000);Transport&Storage&Information and Communication;ConstructionValue of gross output RM (000)? Fitness:(0.6694854911434736,)
+Mining and Quarrying(GDP at current price);Marine Fish Landing( RM (000);Aquaculture Production (?RM (000);Transport&Storage&Information and Communication;ConstructionValue of gross output RM (000)? Fitness:(0.6694854911434736,)
+Mining and Quarrying(GDP at current price);Marine Fish Landing( RM (000);Aquaculture Production (?RM (000);Transport&Storage&Information and Communication;Veterinary Services Salaries & Wages Paid RM (000) Fitness:(0.6590174986844736,)
+Mining and Quarrying(GDP at current price);Marine Fish Landing( RM (000);Aquaculture Production (?RM (000);Transport&Storage&Information and Communication;ConstructionValue of gross output RM (000)? Fitness:(0.6694854911434736,)
+Mining and Quarrying(GDP at current price);Marine Fish Landing( RM (000);Aquaculture Production (?RM (000);Transport&Storage&Information and Communication;ConstructionValue of gross output RM (000)? Fitness:(0.6694854911434736,)
+Mining and Quarrying(GDP at current price);Marine Fish Landing( RM (000);Aquaculture Production (?RM (000);Transport&Storage&Information and Communication;ConstructionValue of gross output RM (000)? Fitness:(0.6694854911434736,)
+Min fitness: 0.6590174986844736
+Max fitness: 0.6694854911434736
+Mean fitness: 0.6684386918975734
+---- Generation: 6 ----
+Mining and Quarrying(GDP at current price);Marine Fish Landing( RM (000);Aquaculture Production (?RM (000);Transport&Storage&Information and Communication;ConstructionValue of gross output RM (000)? Fitness:(0.6694854911434736,)
+Accountanting Services Salaries & Wages Paid RM (000);Marine Fish Landing( RM (000);Aquaculture Production (?RM (000);Transport&Storage&Information and Communication;ConstructionValue of gross output RM (000)? Fitness:(0.6590174986844736,)
+Mining and Quarrying(GDP at current price);Marine Fish Landing( RM (000);Aquaculture Production (?RM (000);Transport&Storage&Information and Communication;Utilities Fitness:(0.6590174986844736,)
+Mining and Quarrying(GDP at current price);Exports 000 Tonne;Aquaculture Production (?RM (000);Transport&Storage&Information and Communication;ConstructionValue of gross output RM (000)? Fitness:(0.6590174986844736,)
+Mining and Quarrying(GDP at current price);Marine Fish Landing( RM (000);Aquaculture Production (?RM (000);Transport&Storage&Information and Communication;Surveying Services Salaries & Wages Paid RM (000) Fitness:(0.6590174986844736,)
+Mining and Quarrying(GDP at current price);Marine Fish Landing( RM (000);Aquaculture Production (?RM (000);Transport&Storage&Information and Communication;ConstructionValue of gross output RM (000)? Fitness:(0.6694854911434736,)
+Dental Services Salaries & Wages Paid RM (000);Marine Fish Landing( RM (000);Aquaculture Production (?RM (000);Transport&Storage&Information and Communication;ConstructionValue of gross output RM (000)? Fitness:(0.6590174986844736,)
+Balance of trade;Marine Fish Landing( RM (000);Aquaculture Production (?RM (000);Transport&Storage&Information and Communication;ConstructionValue of gross output RM (000)? Fitness:(0.6590174986844736,)
+Mining and Quarrying(GDP at current price);Marine Fish Landing( RM (000);Aquaculture Production (?RM (000);Transport&Storage&Information and Communication;ConstructionValue of gross output RM (000)? Fitness:(0.6694854911434736,)
+Mining and Quarrying(GDP at current price);Marine Fish Landing( RM (000);Aquaculture Production (?RM (000);Transport&Storage&Information and Communication;ConstructionValue of gross output RM (000)? Fitness:(0.6694854911434736,)
+Min fitness: 0.6590174986844736
+Max fitness: 0.6694854911434736
+Mean fitness: 0.6632046956680735
+---- Generation: 7 ----
+Mining and Quarrying(GDP at current price);Marine Fish Landing( RM (000);Aquaculture Production (?RM (000);Transport&Storage&Information and Communication;Utilities Fitness:(0.6590174986844736,)
+Mining and Quarrying(GDP at current price);Marine Fish Landing( RM (000);EPI;Transport&Storage&Information and Communication;ConstructionValue of gross output RM (000)? Fitness:(0.6590174986844736,)
+Mining and Quarrying(GDP at current price);Marine Fish Landing( RM (000);Aquaculture Production (?RM (000);Transport&Storage&Information and Communication;ConstructionValue of gross output RM (000)? Fitness:(0.6694854911434736,)
+Mining and Quarrying(GDP at current price);Marine Fish Landing( RM (000);Aquaculture Production (?RM (000);Transport&Storage&Information and Communication;ConstructionValue of gross output RM (000)? Fitness:(0.6694854911434736,)
+Mining and Quarrying(GDP at current price);Marine Fish Landing( RM (000);Aquaculture Production (?RM (000);Bus Services Salaries & Wages Paid RM (000);Surveying Services Salaries & Wages Paid RM (000) Fitness:(0.6508568046891876,)
+Mining and Quarrying(GDP at current price);Exports 000 Tonne;Aquaculture Production (?RM (000);Transport&Storage&Information and Communication;Production of Logs ((000) Fitness:(0.6783696379709745,)
+Mining and Quarrying(GDP at current price);Marine Fish Landing( RM (000);Aquaculture Production (?RM (000);Transport&Storage&Information and Communication;Medical Services Salaries & Wages Paid RM (000) Fitness:(0.5978719504831909,)
+Mining and Quarrying(GDP at current price);Marine Fish Landing( RM (000);Aquaculture Production (?RM (000);Transport&Storage&Information and Communication;ConstructionValue of gross output RM (000)? Fitness:(0.6694854911434736,)
+Mining and Quarrying(GDP at current price);Marine Fish Landing( RM (000);Aquaculture Production (?RM (000);Transport&Storage&Information and Communication;Utilities Fitness:(0.6590174986844736,)
+Mining and Quarrying(GDP at current price);Marine Fish Landing( RM (000);Aquaculture Production (?RM (000);Transport&Storage&Information and Communication;ConstructionValue of gross output RM (000)? Fitness:(0.6694854911434736,)
+Min fitness: 0.5978719504831909
+Max fitness: 0.6783696379709745
+Mean fitness: 0.6582092853770668
+---- Generation: 8 ----
+Mining and Quarrying(GDP at current price);Marine Fish Landing( RM (000);Aquaculture Production (?RM (000);Transport&Storage&Information and Communication;ConstructionValue of gross output RM (000)? Fitness:(0.6694854911434736,)
+Mining and Quarrying(GDP at current price);Exports 000 Tonne;Aquaculture Production (?RM (000);Transport&Storage&Information and Communication;Production of Logs ((000) Fitness:(0.6783696379709745,)
+Mining and Quarrying(GDP at current price);Marine Fish Landing( RM (000);Aquaculture Production (?RM (000);Transport&Storage&Information and Communication;ConstructionValue of gross output RM (000)? Fitness:(0.6694854911434736,)
+Mining and Quarrying(GDP at current price);Marine Fish Landing( RM (000);Aquaculture Production (?RM (000);Transport&Storage&Information and Communication;ConstructionValue of gross output RM (000)? Fitness:(0.6694854911434736,)
+Mining and Quarrying(GDP at current price);Marine Fish Landing( RM (000);Aquaculture Production (?RM (000);Transport&Storage&Information and Communication;ConstructionValue of gross output RM (000)? Fitness:(0.6694854911434736,)
+Mining and Quarrying(GDP at current price);Marine Fish Landing( RM (000);Aquaculture Production (?RM (000);Transport&Storage&Information and Communication;ConstructionValue of gross output RM (000)? Fitness:(0.6694854911434736,)
+Mining and Quarrying(GDP at current price);Exports 000 Tonne;Aquaculture Production (?RM (000);Transport&Storage&Information and Communication;Production of Logs ((000) Fitness:(0.6783696379709745,)
+Mining and Quarrying(GDP at current price);Marine Fish Landing( RM (000);Aquaculture Production (?RM (000);Transport&Storage&Information and Communication;Utilities Fitness:(0.6590174986844736,)
+Mining and Quarrying(GDP at current price);Marine Fish Landing( RM (000);Aquaculture Production (?RM (000);Transport&Storage&Information and Communication;ConstructionValue of gross output RM (000)? Fitness:(0.6694854911434736,)
+Mining and Quarrying(GDP at current price);Marine Fish Landing( RM (000);Aquaculture Production (?RM (000);Transport&Storage&Information and Communication;ConstructionValue of gross output RM (000)? Fitness:(0.6694854911434736,)
+Min fitness: 0.6590174986844736
+Max fitness: 0.6783696379709745
+Mean fitness: 0.6702155212630736
+---- Generation: 9 ----
+Mining and Quarrying(GDP at current price);Exports 000 Tonne;PPIL;Transport&Storage&Information and Communication;Production of Logs ((000) Fitness:(0.6590174986844736,)
+Mining and Quarrying(GDP at current price);Marine Fish Landing( RM (000);EPI;Transport&Storage&Information and Communication;ConstructionValue of gross output RM (000)? Fitness:(0.4235777872521025,)
+Mining and Quarrying(GDP at current price);PPIL;Aquaculture Production (?RM (000);Transport&Storage&Information and Communication;Production of Logs ((000) Fitness:(0.6590174986844736,)
+Mining and Quarrying(GDP at current price);Exports 000 Tonne;Aquaculture Production (?RM (000);Transport&Storage&Information and Communication;Production of Logs ((000) Fitness:(0.6783696379709745,)
+Mining and Quarrying(GDP at current price);Marine Fish Landing( RM (000);Veterinary Services Salaries & Wages Paid RM (000);Transport&Storage&Information and Communication;ConstructionValue of gross output RM (000)? Fitness:(0.6590174986844736,)
+Mining and Quarrying(GDP at current price);Exports 000 Tonne;Aquaculture Production (?RM (000);Transport&Storage&Information and Communication;Production of Logs ((000) Fitness:(0.6783696379709745,)
+Mining and Quarrying(GDP at current price);Exports 000 Tonne;Aquaculture Production (?RM (000);Transport&Storage&Information and Communication;Production of Logs ((000) Fitness:(0.6783696379709745,)
+Mining and Quarrying(GDP at current price);Marine Fish Landing( RM (000);Aquaculture Production (?RM (000);Transport&Storage&Information and Communication;ConstructionValue of gross output RM (000)? Fitness:(0.6694854911434736,)
+Mining and Quarrying(GDP at current price);Marine Fish Landing( RM (000);Aquaculture Production (?RM (000);Transport&Storage&Information and Communication;ConstructionValue of gross output RM (000)? Fitness:(0.6694854911434736,)
+Mining and Quarrying(GDP at current price);Marine Fish Landing( RM (000);Aquaculture Production (?RM (000);Transport&Storage&Information and Communication;ConstructionValue of gross output RM (000)? Fitness:(0.6694854911434736,)
+Min fitness: 0.4235777872521025
+Max fitness: 0.6783696379709745
+Mean fitness: 0.6444195670648868
+---- Generation: 10 ----
+Mining and Quarrying(GDP at current price);Exports 000 Tonne;Aquaculture Production (?RM (000);Transport&Storage&Information and Communication;Production of Logs ((000) Fitness:(0.6783696379709745,)
+Mining and Quarrying(GDP at current price);Exports 000 Tonne;Aquaculture Production (?RM (000);Transport&Storage&Information and Communication;Production of Logs ((000) Fitness:(0.6783696379709745,)
+Mining and Quarrying(GDP at current price);Exports 000 Tonne;Aquaculture Production (?RM (000);Transport&Storage&Information and Communication;Production of Logs ((000) Fitness:(0.6783696379709745,)
+Mining and Quarrying(GDP at current price);Education Services Salaries & Wages Paid RM (000);Aquaculture Production (?RM (000);Transport&Storage&Information and Communication;ConstructionValue of gross output RM (000)? Fitness:(0.4227540246852842,)
+Mining and Quarrying(GDP at current price);Marine Fish Landing( RM (000);Aquaculture Production (?RM (000);Transport&Storage&Information and Communication;ConstructionValue of gross output RM (000)? Fitness:(0.6694854911434736,)
+Mining and Quarrying(GDP at current price);Exports 000 Tonne;Aquaculture Production (?RM (000);Transport&Storage&Information and Communication;Production of Logs ((000) Fitness:(0.6783696379709745,)
+Mining and Quarrying(GDP at current price);Exports 000 Tonne;Aquaculture Production (?RM (000);Transport&Storage&Information and Communication;Production of Logs ((000) Fitness:(0.6783696379709745,)
+Mining and Quarrying(GDP at current price);Exports 000 Tonne;Aquaculture Production (?RM (000);Transport&Storage&Information and Communication;Production of Logs ((000) Fitness:(0.6783696379709745,)
+Paddy Production (tonne);Marine Fish Landing( RM (000);Aquaculture Production (?RM (000);Transport&Storage&Information and Communication;ConstructionValue of gross output RM (000)? Fitness:(0.6601276559895648,)
+Mining and Quarrying(GDP at current price);Marine Fish Landing( RM (000);Veterinary Services Salaries & Wages Paid RM (000);Transport&Storage&Information and Communication;ConstructionValue of gross output RM (000)? Fitness:(0.6590174986844736,)
+Min fitness: 0.4227540246852842
+Max fitness: 0.6783696379709745
+Mean fitness: 0.6481602498328644
+-- End of (successful) evolution --Best individual is Mining and Quarrying(GDP at current price);Exports 000 Tonne;Aquaculture Production (?RM (000);Transport&Storage&Information and Communication;Production of Logs ((000), (0.6783696379709745,) 
